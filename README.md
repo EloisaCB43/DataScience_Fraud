@@ -5,6 +5,9 @@ Prof. : David Palacio Jiménez
 
 Est. : Eloisa Cardona Botero - Simón Callejas Pérez - Luisa Fernanda Escobar Gutiérrez
 
+
+Link a Google Colab: https://colab.research.google.com/drive/1_opUtAlchvTsq4veMHD8GkBoO9WuD94I?usp=sharing
+
 ## Descripción del proyecto  
 El proyecto final del curso consiste en desarrollar un **análisis exploratorio exhaustivo** de un dataset que contiene información de transacciones financieras en línea.  
 
